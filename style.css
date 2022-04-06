@@ -1,7 +1,11 @@
 body{
     background-color: orange;
 }
-table,td,th{
+table{
+    border-collapse: collapse;
+}
+td,th{
     border: 1px solid green;
     border-radius: 3px;
+    
 }
