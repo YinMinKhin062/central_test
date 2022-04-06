@@ -1,12 +1,7 @@
 body{
     background-color: orange;
 }
-<<<<<<< HEAD
-.fruittbl{
-    border-radius: 5px;
-=======
-table,th,td{
-    border-radius: 2px;
->>>>>>> dev2
-    border:1px solid green;
+.fruittbl,td,th{
+    border: 1px solid green;
+    border-radius: 3px;
 }
