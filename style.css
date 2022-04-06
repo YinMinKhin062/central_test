@@ -1,7 +1,13 @@
 body{
     background-color: orange;
 }
-table,th,td{
+
+/* table{ */
+    /* border-collapse: collapse; */
+/* } */
+
+td,th{
     border: 1px solid green;
     border-radius: 3px;
+    
 }
