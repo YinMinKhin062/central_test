@@ -1,3 +1,6 @@
 body{
     background-color: orange;
 }
+table{
+    border-radius: 2px;
+}
